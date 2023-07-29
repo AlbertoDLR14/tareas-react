@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tareas-react/static/css/main.5b324457.css",
+    "main.js": "/tareas-react/static/js/main.cc88f84f.js",
+    "index.html": "/tareas-react/index.html",
+    "main.5b324457.css.map": "/tareas-react/static/css/main.5b324457.css.map",
+    "main.cc88f84f.js.map": "/tareas-react/static/js/main.cc88f84f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b324457.css",
+    "static/js/main.cc88f84f.js"
+  ]
+}
